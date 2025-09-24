@@ -1,2 +1,1 @@
-Esta es la rama de develop
-Esta es la rama de QA
+Esta es la rama de de task, pruebas
